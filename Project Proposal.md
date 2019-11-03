@@ -36,7 +36,7 @@ It comprises of 23 columns and 1354 rows of data. The data correspond to a list 
 We would combine both our data sets to see if we can find a relation between the number of homeless people at a particular location with respect to the number of agencies present at that given location.
 
 **Information Visualizations :**
-* ![Number of homeless people graph](Images/Number_of_homeless_people_in_USA.png)
+* ![Number of homeless people graph](Images/Number_of_homeless_people_in_USA.PNG)
 This visualization represents a downward trend within a nine year period. The parts shaded in red represents those who were unsheltered and homeless which refers to people who sleep on the streets, in their car, private/public property, e.t.c The parts shaded in orange represents sheltered homelessness which refers to anybody staying in emergency shelters, transitional housing programs, or safe havens.
 
 
