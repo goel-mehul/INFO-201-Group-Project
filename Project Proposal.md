@@ -36,6 +36,12 @@ It comprises of 23 columns and 1354 rows of data. The data correspond to a list 
 We would combine both our data sets to see if we can find a relation between the number of homeless people at a particular location with respect to the number of agencies present at that given location.
 
 **Information Visualizations :**
+* ![Number of homeless people graph](Images/Number_of_homeless_people_in_USA.png)
+This visualization represents a downward trend within a nine year period. The parts shaded in red represents those who were unsheltered and homeless which refers to people who sleep on the streets, in their car, private/public property, e.t.c The parts shaded in orange represents sheltered homelessness which refers to anybody staying in emergency shelters, transitional housing programs, or safe havens.
+
+
+* ![Number of homeless people by state picture](Images/Homelessness_by_state.png)
+This visualization shows a state by state look on homelessness. This helps you take a look and see which states suffered the most homelessness. You could also link similarities in states with the most homelessness compared to other states to find the root cause of this issue. For example in this chart you can see that California, New York, Washington, and Texas are the top states with the most homelessness.
 
 
 **Team Coordination :**
@@ -51,3 +57,8 @@ Def Love(X): - https://www.kaggle.com/adamschroeder/homelessness
 
 Family and Support Services Delegate Agencies
 https://catalog.data.gov/dataset/family-and-support-services-delegate-agencies
+
+Total homeless count by state https://www.thoughtspot.com/sites/default/files/Homelessness1.png
+
+Number Of Homeless People, By Shelter Status
+https://ourworldindata.org/grapher/number-of-homeless-people-by-shelter-status
