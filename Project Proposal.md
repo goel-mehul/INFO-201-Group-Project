@@ -1,5 +1,7 @@
 # P1: Project Proposal
 
+### How to reduce the exponential growth of Homelessness in the USA
+
  **Project Code name :** Team#1
 
  **Working Title :** Homelessness in the US
@@ -13,13 +15,13 @@ University of Washington
 Autumn 2019
 
 **Problem situation :**
- The stakeholders in our problem are society and more directly the economy (indirect stakeholder) and those who are currently homeless (direct stakeholder). The setting of our problem is cities and societies across the United States, plagued with homelessness. Values and tensions in play when addressing this problem include lack of affordable low-income housing, unemployment, unexpected changes in life (bankruptcy, loss of job). Policy and ethical elements exist within this problem in that the government plays a role in regulating institutions and creating policy that may be alleviating or perpetuating the problem of homelessness. On an ethical side, we see that many veterans are currently homeless and the government isn’t providing resources  to help them, as well as the apathetic nature of society towards the homeless population.
+ The stakeholders in our problem are society and more directly the economy (indirect stakeholder) and those who are currently homeless (direct stakeholder). The setting of our problem is cities and societies across the United States, plagued with homelessness. Values and tensions in play when addressing this problem include lack of affordable low-income housing, unemployment, unexpected changes in life (bankruptcy, loss of job). Policy and ethical elements exist within this problem in that the government plays a role in regulating institutions and creating a policy that may be alleviating or perpetuating the problem of homelessness. On an ethical side, we see that many veterans are currently homeless and the government isn’t providing resources to help them, as well as the apathetic nature of society towards the homeless population.
 
 **What is the problem?** The problem is that homelessness is increasing exponentially due to unemployment, lack of low-income housing, substance abuse problems, healthcare, etc. The effects of homelessness are devastating in that many homeless people are without basic necessities, including food security, and lack the resources to achieve upward mobility (i.e. higher education, employment opportunities).
 
-**What does it matter?** It matters because this problem is causing homeless people  to have physical and mental health problems, children are suffering from hunger and malnutrition, and homeless people are an easy target for criminals to exploit. This matters because homelessness is usually caused by unexpected life events or unemployment and there aren't many or any resources to help people rebuild their lives after facing such tragedies.
+**What does it matter?** It matters because this problem is causing homeless people to have physical and mental health problems, children are suffering from hunger and malnutrition, and homeless people are an easy target for criminals to exploit. This matters because homelessness is usually caused by unexpected life events or unemployment and there aren't many or any resources to help people rebuild their lives after facing such tragedies.
 
-**How it will be addressed?** Our goal in addressing this problem is to find the most problematic areas (highest rates of homelessness) we see in the US and analyze why these areas potentially have the highest homeless rates. After analyzing this data, we hope to address and alleviate the problem by providing this data to organizations that seek to help the homeless so they can make the largest impact possible. In addition, we could use this data to provide resources to homeless populations so that they could have access to amenities to help themselves (example: employment opportunities, food banks, shelters).
+**How it will be addressed?** Our goal in addressing this problem is to find the most problematic areas (highest rates of homelessness) we see in the US and analyze why these areas potentially have the highest homeless rates. After analyzing this data, we hope to address and alleviate the problem by providing this data to organizations that seek to help the homeless so they can make the largest impact possible. In addition, we could use this data to provide resources to homeless populations so that they could have access to amenities to help themselves (for example: employment opportunities, food banks, shelters).
 
 **Research Questions :**
 * RQ #1 Why do we see higher rates of homelessness in certain areas and cities and what could potentially be perpetuating these high rates?
@@ -37,7 +39,7 @@ We would combine both our data sets to see if we can find a relation between the
 
 **Information Visualizations :**
 * ![Number of homeless people graph](Images/Number_of_homeless_people_in_USA.PNG)
-This visualization represents a downward trend within a nine year period. The parts shaded in red represents those who were unsheltered and homeless which refers to people who sleep on the streets, in their car, private/public property, e.t.c The parts shaded in orange represents sheltered homelessness which refers to anybody staying in emergency shelters, transitional housing programs, or safe havens.
+This visualization represents a downward trend within a nine-year period. The parts shaded in red represents those who were unsheltered and homeless which refers to people who sleep on the streets, in their car, private/public property, e.t.c The parts shaded in orange represents sheltered homelessness which refers to anybody staying in emergency shelters, transitional housing programs, or safe havens.
 
 
 * ![Number of homeless people by state picture](Images/Homelessness_by_state.png)
