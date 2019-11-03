@@ -4,7 +4,7 @@
 
  **Working Title :** Homelessness in the US
 
- **Team Member names :** Destiny Broughton (brougd@uw.edu), Mehul Goel (mehulg8@uw.edu), Salma Mohamed()    
+ **Team Member names :** Destiny Broughton (brougd@uw.edu), Mehul Goel (mehulg8@uw.edu), Salma Mohamed(salmam6@uw.edu)    
 
  **Affiliation Info-201 :**     
 Technical Foundations of Informatics   
