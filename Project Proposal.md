@@ -45,7 +45,11 @@ This visualization shows a state by state look on homelessness. This helps you t
 
 
 **Team Coordination :**
-Our weekly meeting times will vary week to week depending on everyone’s changing schedule, but for right now, Friday seems to be the most ideal time for everyone to meet. Destiny’s individual goal for the project is to delve deeper into the problem of homelessness and create viable solutions. Salma’s individual goal is to find the trends in homeless in the U.S and what the leading cause is from state to state. Mehul’s individual goal is to understand the trends that take place in homelessness and create ideas for solutions that can reduce homelessness. Our current form of communication is a group text that we will use to get in contact, which is also the way we can give each other feedback and address challenges that may arise, in addition to in-person verbal communication.
+Our weekly meeting times will vary week to week depending on everyone’s changing schedule, but for right now, Friday seems to be the most ideal time for everyone to meet.   
+Destiny’s individual goal for the project is to delve deeper into the problem of homelessness and create viable solutions.   
+ Salma’s individual goal is to find the trends in homeless in the U.S and what the leading cause is from state to state.                   
+ Mehul’s individual goal is to understand the trends that take place in homelessness and create ideas for solutions that can reduce homelessness.   
+ Our current form of communication is a group text that we will use to get in contact, which is also the way we can give each other feedback and address challenges that may arise, in addition to in-person verbal communication.
 
 **Questions for Teaching Team :**
 NA
