@@ -4,7 +4,7 @@
 
  **Working Title :** Homelessness in the US
 
- **Team Member names :** Destiny Broughton (brougd@uw.edu), Mehul Goel (mehulg8@uw.edu), Salma Mohamed()    
+ **Team Member names :** Destiny Broughton (brougd@uw.edu), Mehul Goel (mehulg8@uw.edu), Salma Mohamed(salmam6@uw.edu)    
 
  **Affiliation Info-201 :**     
 Technical Foundations of Informatics   
@@ -36,7 +36,12 @@ It comprises of 23 columns and 1354 rows of data. The data correspond to a list 
 We would combine both our data sets to see if we can find a relation between the number of homeless people at a particular location with respect to the number of agencies present at that given location.
 
 **Information Visualizations :**
+![first visualization chart](https://ourworldindata.org/grapher/number-of-homeless-people-by-shelter-status)
 
+This visualization represents a downward trend within a nine year period. The parts shaded in red represents those who were unsheltered and homeless which refers to people who sleep on the streets, in their car, private/public property, e.t.c The parts shaded in orange represents sheltered homelessness which refers to anybody staying in emergency shelters, transitional housing programs, or safe havens.
+
+![Second visualization charts](https://www.thoughtspot.com/sites/default/files/Homelessness1.png)
+This visualization shows a state by state look on homelessness. This helps you take a look and see which states suffered the most homelessness. You could also link similarities in states with the most homelessness compared to other states to find the root cause of this issue. For example in this chart you can see that California, New York, Washington, and Texas are the top states with the most homelessness.
 
 **Team Coordination :**
 Our weekly meeting times will vary week to week depending on everyone’s changing schedule, but for right now, Friday seems to be the most ideal time for everyone to meet. Destiny’s individual goal for the project is to delve deeper into the problem of homelessness and create viable solutions. Salma’s individual goal is to find the trends in homeless in the U.S and what the leading cause is from state to state. Mehul’s individual goal is to understand the trends that take place in homelessness and create ideas for solutions that can reduce homelessness. Our current form of communication is a group text that we will use to get in contact, which is also the way we can give each other feedback and address challenges that may arise, in addition to in-person verbal communication.
