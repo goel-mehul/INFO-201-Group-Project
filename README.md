@@ -4,4 +4,4 @@ Our topic for the project is homelessness present in USA. We are going to analyz
 
 Our Technical Report can be found here : [Technical Report](https://github.com/goel-mehul/INFO-201-Group-Project/wiki/INFO-201-Technical-Report)
 
-Our shiny app can be found here : [Shiny App] (https://goel-mehul.shinyapps.io/INFO-201-Group-Project/)
+Our shiny app can be found here : [Shiny App](https://goel-mehul.shinyapps.io/INFO-201-Group-Project/)
