@@ -12,7 +12,7 @@ number_homeless <- read.csv("Data/number_homeless.csv", stringsAsFactors = FALSE
 page_one <- tabPanel(
     "Introduction",
     titlePanel("Background on Homelessness"),
-    p(" Homeslesness is when an individual, family or community is without
+    p(" Homelesness is when an individual, family or community is without
     a stable housing condition and lacks basic needs like health care.
     The problem is that homelessness is increasing exponentially due
     to unemployment, lack of low-income housing, substance abuse problems,
