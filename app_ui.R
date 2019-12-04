@@ -1,6 +1,8 @@
 library(dplyr)
 library(ggplot2)
 library(plotly)
+library(shinythemes)
+library(shiny)
 
 homelessness_type_by_state <- read.csv("Data/homelessness_type_by_state.csv",
                                        stringsAsFactors = FALSE)
@@ -205,11 +207,13 @@ page_five <- tabPanel(
     )
   )
 )
-ui <- navbarPage(
+ui <- fluidPage(theme = shinytheme("sandstone"),
+  navbarPage(
   "INFO 201 Project",
   page_one,
   page_two,
   page_three,
   page_four,
   page_five
+  )
 )
