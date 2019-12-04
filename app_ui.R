@@ -200,8 +200,7 @@ page_five <- tabPanel(
         homelessness.",
         h2("Links"),
         a("Link to the Technical Report",
-          href = "https://github.com/goel-mehul/INFO-201-Group-Project/wiki/
-          INFO-201-Technical-Report")
+          href = "https://github.com/goel-mehul/INFO-201-Group-Project/wiki")
       )
     )
   )
